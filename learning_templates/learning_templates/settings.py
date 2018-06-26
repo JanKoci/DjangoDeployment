@@ -26,7 +26,7 @@ SECRET_KEY = 'vmyfn89l(g4+atr!5i8qz%vzdm3=2_vw3i8h@324!9v6iev0=r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jankoci.pythonanywhere.com']
 
 
 # Application definition
